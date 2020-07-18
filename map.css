@@ -1,0 +1,13 @@
+body {
+  background-color: rgb(3, 65, 119);
+}
+
+.sidePanel {
+  width: 100%;
+  border: 5px solid black;
+  text-align: center;
+}
+.map {
+  width: 100%;
+  border: 5px solid black;
+}
